@@ -394,8 +394,16 @@ html {
   margin-bottom: 20px;
 }
 
+.border-class{
+  border-bottom: .5px solid #fff;
+}
+
 .whiteText{
   color: #fff;
+}
+
+.fs-head{
+  font-size: 30px;
 }
 
 .services .media {
@@ -516,7 +524,7 @@ html {
 }
 .post-thumb {
   width: 300px;
-  height: 270px;
+  height: 220px;
   display: flex;
   align-items: center;
   padding: 10px;
@@ -582,9 +590,6 @@ html {
   color: #ccc;
 }
 
-.post-content a:hover {
-  color: #26264b;
-}
 
 .post-content .post-btn {
   color: #6e6e6e;
