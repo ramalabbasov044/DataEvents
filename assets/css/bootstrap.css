@@ -2483,7 +2483,7 @@ textarea.form-control.is-invalid {
 }
 
 .btn:hover::after {
-  top: -6px;
+  top: 0px;
   opacity: 1;
 }
 
