@@ -394,6 +394,10 @@ html {
   margin-bottom: 20px;
 }
 
+.whiteText{
+  color: #fff;
+}
+
 .services .media {
   margin: 40px 0;
 }
