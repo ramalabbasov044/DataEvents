@@ -1141,6 +1141,13 @@ span {
   }
 }
 
+.white{
+  color: white;
+}
+.white:hover{
+  color: white;
+}
+
 @media screen and (max-width:550px){
   .btn-link {
     padding-left: 10px !important;
