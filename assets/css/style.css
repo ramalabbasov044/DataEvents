@@ -619,6 +619,16 @@ html {
   position: relative;
 }
 
+.vacancies{
+  padding: 65px 0;
+  background-color: #532f3b;
+  color: #ddd;
+  position: relative;
+  display:  flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .trust .title {
   margin-bottom: 46px;
 }
@@ -1112,4 +1122,51 @@ span {
   .gallery {
     margin-top: 80px !important;
   }
+}
+.accordion{
+  width: max-content;
+}
+
+.card{
+  width: 700px;
+  background: transparent;
+  border-color: #fff;
+}
+
+@media screen and (max-width:992px){
+  .card{
+    width: 400px;
+    background: transparent;
+    border-color: #fff;
+  }
+}
+
+@media screen and (max-width:550px){
+  .btn-link {
+    padding-left: 10px !important;
+    font-size: 17px !important;
+  }
+  .card-body{
+    font-size: 12px !important;
+  }
+  .card{
+    width: 350px;
+    background: transparent;
+    border-color: #fff;
+  }
+}
+
+.btn-link{
+  color: #fff;
+  text-decoration: none;
+}
+
+.btn-link:hover{
+  color: #fff;
+  text-decoration: none;
+}
+
+.card-header{
+  background: #532f3b;
+  border-bottom-color: #fff;
 }
