@@ -16,9 +16,29 @@ body {
 */
 
 header {
-  background-color: #532f3b;
   color: #fff;
   z-index: 1000;
+}
+
+.vacansies-btn{
+  background-color: #532f3b;
+  border: 1px solid #fff;
+  color: #fff;
+  border-radius: 7px;
+  padding: 10px 20px;
+}
+
+.vacansies-a:hover{
+  color: #fff !important;
+  text-decoration: none;
+}
+
+.vacansies-btn:hover{
+  background-color: #532f3b;
+  border: 1px solid #fff;
+  color: #fff;
+  border-radius: 7px;
+  padding: 10px 20px;
 }
 
 header a {
