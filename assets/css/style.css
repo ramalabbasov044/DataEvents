@@ -24,6 +24,17 @@ header {
   font-weight: 600;
   font-size: 22px;
 }
+
+.carousel-control-prev{
+  opacity:inherit !important;
+  background: transparent;
+  border: 0;
+}
+.carousel-control-next{
+  opacity:inherit !important;
+  background: transparent;
+  border: 0;
+}
 .proqram{
   gap: 50px;
   text-align: left;
