@@ -317,7 +317,18 @@
     padding: 75px 0;
   }
 }
-
+@media screen and (max-width:1205px){
+  .navbar-nav{
+    width: 94% !important;
+    justify-content: space-between;
+  }
+  .nav-item{
+    margin-right: 6px !important;
+  }
+  .nav-link{
+    padding: 8px 6px !important;
+  }
+}
 @media screen and (max-width:500px){
   .proqram{
     flex-direction:  column;
