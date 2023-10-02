@@ -20,6 +20,35 @@ header {
   z-index: 1000;
 }
 
+.card-body-speaker{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 60px;
+}
+.about-collapse{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.about-title{
+  max-width: 450px;
+  width: 100%;
+  font-size: 14px;
+}
+.about-btn{
+  border: 1px solid #fff;
+  color: #fff;
+  background: transparent;
+  padding: 10px 25px;
+  border-radius: 8px;
+  margin-top: 30px;
+}
+
+.about-btn:hover{
+  border: 1px solid #fff;
+}
+
+
 .vacansies-btn{
   background-color: #532f3b;
   border: 1px solid #fff;
