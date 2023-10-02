@@ -30,16 +30,7 @@ header {
   background: transparent;
   border: 0;
 }
-@media screen and (max-width:500px){
-  .proqram{
-    flex-direction:  column;
-  }
-  .card-body-speaker{
-    display: grid;
-    grid-template-columns: repeat(1, 1fr);
-    gap: 40px;
-  }
-}
+
 .carousel-control-next{
   opacity:inherit !important;
   background: transparent;
