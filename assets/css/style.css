@@ -19,6 +19,26 @@ header {
   color: #fff;
   z-index: 1000;
 }
+.head-title{
+  color: #fff;
+  font-weight: 600;
+  font-size: 22px;
+}
+.proqram{
+  gap: 50px;
+  text-align: left;
+  margin-top: 50px;
+}
+.proram-a{
+  display: flex;
+  flex-direction: column;
+  max-width: 350px;
+}
+.sub-title{
+  color: #fff;
+  font-weight: 500;
+  font-size: 13px;
+}
 
 .card-body-speaker{
   display: grid;
