@@ -637,7 +637,7 @@ html {
 }
 .post-thumb img {
   width: 200px;
-  height: 200px;
+  height: 256px;
   object-fit: cover;
   transition: all 0.2s;
 }
