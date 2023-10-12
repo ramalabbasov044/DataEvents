@@ -1281,3 +1281,17 @@ span {
   background: #532f3b;
   border-bottom-color: #fff;
 }
+
+.medium-title{
+  font-weight: 500;
+  margin-left: 10px;
+  font-size: 15px;
+  margin-top: 20px;
+}
+
+.medium-title-big{
+  font-weight: 500;
+  margin-left: 30px;
+  font-size: 14px;
+  margin-top: 20px;
+}
