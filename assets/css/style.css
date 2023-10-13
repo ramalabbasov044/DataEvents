@@ -1284,7 +1284,6 @@ span {
 
 .medium-title{
   font-weight: 500;
-  margin-left: 10px;
   font-size: 15px;
   margin-top: 20px;
 }
@@ -1297,7 +1296,7 @@ span {
 }
 
 .ml-big{
-  margin-left: 74px;
+  margin-left: 66px;
 }
 @media screen and (max-width:500px){
   .ml-big{
