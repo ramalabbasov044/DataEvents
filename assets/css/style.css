@@ -67,12 +67,12 @@ header {
 .proram-a{
   display: flex;
   flex-direction: column;
-  max-width: 350px;
+  max-width: 450px;
 }
 .sub-title{
   color: #fff;
   font-weight: 500;
-  font-size: 13px;
+  font-size: 16px;
 }
 
 .card-body-speaker{
@@ -1308,4 +1308,8 @@ span {
   .medium-title{
     margin-left: 5px !important;
   }
+}
+
+#about_tit{
+  font-size: 17px;
 }
